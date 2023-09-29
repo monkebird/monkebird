@@ -6,7 +6,7 @@
   - Курс Data Scientist с нуля до PRO от SkillFactory 
 * 📚 Изучаю иностранные языки: как живые (английский, немецкий, финский), так и мертвые (латынь, древнегреческий)
 * 👶 Занимаюсь исследованиями в области детской речи 
-* 💻 На досуге изучаю Data Science
+* 💅 На досуге изучаю Data Science
 
 ### 📚 Проекты 📚
 
@@ -33,7 +33,7 @@
   - "Data Scientist course from scratch to PRO" from SkillFactory
 * 📚 Study foreign languages: both living (English, German, Finnish) and dead (Latin, Ancient Greek)
 * 👶 Conduct research in the field of children's speech
-* 💻 Study Data Science at my leisure
+* 💅 Study Data Science at my leisure
 
 ### 💡 Core competencies 💡
 - Tools: Python, SQL
