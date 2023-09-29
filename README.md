@@ -1,6 +1,6 @@
 ### Привет! 👋
 
-### ✨ Обо мне за 30 секунд ✨ 
+### ✨ Обо мне за 30 секунд 
 * 🎓 Образование:
   - СПбГУ (бакалавриат): Теоретическое и экспериментальное языкознание (английский язык)
   - Курс Data Scientist с нуля до PRO от SkillFactory 
@@ -8,11 +8,11 @@
 * 👶 Занимаюсь исследованиями в области детской речи 
 * 💅 На досуге изучаю Data Science
 
-### 📚 Проекты 📚
+### 📚 Проекты 
 
 * Кликни [сюда](https://github.com/monkebird/data_science), чтобы посмотреть мои проекты
 
-### 💡 Основные компетенции 💡
+### 💡 Основные компетенции 
 - Инструменты: Python, SQL
 - Skills: 
     * Mathematical statistics;
@@ -27,7 +27,7 @@
 
 ### Hello! 👋
 
-### ✨ About me in 30 seconds ✨ 
+### ✨ About me in 30 seconds 
 * 🎓 Education:
   - Student at the Department of General Linguistics of St. Petersburg State University
   - "Data Scientist course from scratch to PRO" from SkillFactory
@@ -35,7 +35,7 @@
 * 👶 Conduct research in the field of children's speech
 * 💅 Study Data Science at my leisure
 
-### 💡 Core competencies 💡
+### 💡 Core competencies 
 - Tools: Python, SQL
 - Skills:
     * Mathematical statistics;
