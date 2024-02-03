@@ -21,8 +21,7 @@
 
 ### 🙌🏻 Свяжись со мной
 - [Telegram](https://t.me/birdmonkey)
-- [Вконтакте](https://vk.com/monkeybird)
-
+  
 ---
 
 ### Hello! 👋
@@ -44,4 +43,3 @@
 
 ### 🙌🏻 Contact me
 - [Telegram](https://t.me/birdmonkey)
-- [Vkontakte](https://vk.com/monkeybird)
